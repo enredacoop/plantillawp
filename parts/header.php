@@ -62,9 +62,9 @@
 	  </div><!-- /.navbar-collapse -->
       <ul class="iusocial">
       <span class="text"> Síguenos: </span>
-     <a href="https://twitter.com/iuelpuerto">   <i class="fa fa-twitter"></i> </a>
-      <a href="https://www.facebook.com/iuelpuerto?fref=nf">     <i class="fa fa-facebook"></i> </a>
-       <a href="https://www.youtube.com/channel/UCSFFUlryzud0sXY30YUarGg">    <i class="fa fa-youtube"></i>  </a>
+     <a href="https://twitter.com/">   <i class="fa fa-twitter"></i> </a>
+      <a href="https://www.facebook.com/">     <i class="fa fa-facebook"></i> </a>
+       <a href="https://www.youtube.com/">    <i class="fa fa-youtube"></i>  </a>
        <a href="<?php bloginfo('rss2_url'); ?>">  <i class="fa fa-rss"></i>  </a>
       </ul>
   </div>
